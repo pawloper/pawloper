@@ -11,10 +11,11 @@
 
 - 📫 How to reach me **pawloper@pawloapp.com**
 
-- ⚡ Fun fact **Sometimes I feel like chewing bones while writing code :)**
+- ⚡ Fun fact **Sometimes I feel like chewing bones while writing code 😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  You can reach me by howling. 🐺
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
